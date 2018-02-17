@@ -1,6 +1,6 @@
 # FinalVersionResolution
 
-Unity project for master thesis
+Unity project for master thesis (Android version)
 
 All the codes(scripts) are placed under the following path: 
 
