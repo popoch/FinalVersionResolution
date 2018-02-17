@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PythonProject.unity
+    guid: 5d5014961de6af246bd2d7c530591301
+  - enabled: 1
+    path: Assets/SceneSelect.unity
+    guid: 5e3a036763f336e47b3f83be21e30bb8
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: df063eaa0909f3749854c5edd346a104
+  - enabled: 1
+    path: Assets/Summary.unity
+    guid: a2ae65989c0a0b84486dca71ba4e6c0f
+  - enabled: 1
+    path: Assets/PartOne.unity
+    guid: 0f069ec4850ae9741948e65583052a60
+  - enabled: 1
+    path: Assets/PartTwo.unity
+    guid: 35192213c0a5dcf4b9012805bf704046
+  - enabled: 1
+    path: Assets/PartThree.unity
+    guid: 5fa0752c775eba5408ea014fc3f2437c
+  - enabled: 1
+    path: Assets/PartFour.unity
+    guid: 08918fa041f8ade4ba41af569c6d8404
+  - enabled: 1
+    path: Assets/dragTest.unity
+    guid: 5815dcbdf2e9ac94f85f7ec2b7d5862e
+  - enabled: 1
+    path: Assets/select.unity
+    guid: 7eec54b8ef7aaa045a64debf88814562
+  - enabled: 1
+    path: Assets/selectGame01.unity
+    guid: 8bab1bc175c31c940af7ec49f5a36b6d
+  - enabled: 1
+    path: Assets/typingGame1.unity
+    guid: 1bd5f38eb5021654abfea072190b01c8
+  - enabled: 1
+    path: Assets/part1quiz1.unity
+    guid: 1e89cfe369d3d614784d1431851c783d
+  - enabled: 1
+    path: Assets/part1quiz2.unity
+    guid: d808b9e499413c944a0bc35f5482bec5
+  - enabled: 1
+    path: Assets/part1quiz3.unity
+    guid: 8afc5d911253c964180724f335d55ee5
+  - enabled: 1
+    path: Assets/part2quiz1.unity
+    guid: 346aacfb40177b347979aff7e2a438b5
+  - enabled: 1
+    path: Assets/part2quiz2.unity
+    guid: 97641a444011cf44b9f74cd524b7a602
+  - enabled: 1
+    path: Assets/part2quiz3.unity
+    guid: 248aeb95a2b990146b0155a389cc9530
+  - enabled: 1
+    path: Assets/part2quiz2_2.unity
+    guid: d6e26a4176e6b304f8e08e755084aaf2
+  - enabled: 1
+    path: Assets/part2quiz3_2.unity
+    guid: c37d4130b1969f34b97f179a13861eb8
+  - enabled: 1
+    path: Assets/part2quiz3_3.unity
+    guid: bfbdb1735dff8a140af556ab266c1fa2
+  - enabled: 1
+    path: Assets/selectGame03.unity
+    guid: 513afa8c3719bbc4f9eb702f09701be1
+  - enabled: 1
+    path: Assets/part3quiz1.unity
+    guid: 8022d67145481ac4f9f3454c21429d17
+  - enabled: 1
+    path: Assets/part3quiz2.unity
+    guid: a5e943a213279954ba0b3f221e763455
+  - enabled: 1
+    path: Assets/part3quiz2_2.unity
+    guid: dac16370ae017bd4daf48f024de86628
+  - enabled: 1
+    path: Assets/part3quiz3.unity
+    guid: c7dae841e6bcae748883db60109e288d
+  - enabled: 0
+    path: 
+    guid: 30a85ac85ccbd034cac580083b68e34e
+  - enabled: 0
+    path: 
+    guid: 44dc8b78370626d4c9120a5c8c51a82c
+  - enabled: 0
+    path: 
+    guid: 702800d9e559cd34bb10bea36c217388
